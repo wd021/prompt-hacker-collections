@@ -64,6 +64,10 @@ Here are some related resources that can help you understand prompt-injection at
 - [OpenAI 大模型安全的最佳实践 | OpenAI safety-best-practices](https://platform.openai.com/docs/guides/safety-best-practices)
 - [大型语言模型（LLM）的红队介绍 | microsoft openai red-teaming](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/red-teaming)
 
+Here are some related prompting resources:
+
+- [God Tier Prompts - Leaderboard showing the best prompts](https://www.godtierprompts.com)
+
 ## 🤝 Contributing
 
 We welcome everyone to contribute to this project. If you have any ideas, suggestions,
